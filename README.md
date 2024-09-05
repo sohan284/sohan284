@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Sohanur Rahman Sohan</h1>
-<h3 align="center">A passionate Junior Front End Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working as a Junior Frontend Engineer [EkkBaz](https://ekkbaz.com/)
+- 🔭 I’m currently working as a Full Stack Engineer [bd calling]
 
 - 🌱 I’m currently learning **Docker**
 
