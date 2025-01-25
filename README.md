@@ -20,10 +20,6 @@
 </p>
                                                                                                
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@idimetrix-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
-
----
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Sohanur Rahman.
 
 <p>
