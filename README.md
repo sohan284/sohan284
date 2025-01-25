@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sohanur Rahman Sohan</h1>
 <h3 align="center">A passionate Full Stack Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working as a Full Stack Engineer [bd calling]
-
-- 🌱 I’m currently learning **Docker**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ccefb.web.app/](https://portfolio-ccefb.web.app/)
-
-- 💬 Ask me about **react , javascript**
-
-- 📫 How to reach me **sr.sohan088@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CHbxyhxze5iR89oIkFF5dfLRRoEhUTlT/view?usp=drive_link](https://drive.google.com/file/d/1CHbxyhxze5iR89oIkFF5dfLRRoEhUTlT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,13 +19,17 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
 </p>
 
-I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
+- 🔭 I’m currently working as a Full Stack Engineer [bd calling]
 
-Welcome to my page; on my Github, you can find:
+- 🌱 I’m currently learning **Docker**
 
-- Projects created by me
-- Projects contributed by me
+- 👨‍💻 All of my projects are available at [https://portfolio-ccefb.web.app/](https://portfolio-ccefb.web.app/)
 
+- 💬 Ask me about **react , javascript**
+
+- 📫 How to reach me **sr.sohan088@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CHbxyhxze5iR89oIkFF5dfLRRoEhUTlT/view?usp=drive_link](https://drive.google.com/file/d/1CHbxyhxze5iR89oIkFF5dfLRRoEhUTlT/view?usp=drive_link)
 ## 📧 You can contact me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sr-sohan-1621a0199/)
