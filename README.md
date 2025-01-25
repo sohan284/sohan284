@@ -62,53 +62,30 @@ Welcome to my page; on my Github, you can find:
 
 ## 📧 You can contact me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sr-sohan-1621a0199/)
 
 _I am open to new opportunities/contributions._
 
-## 🔎 You can find me on:
-
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
-
-## Github stats:
-
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-## 🔖 Featured repositories:
-
-[![CTO, Software Architect, Technical Lead](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=idimetrix)](https://github.com/idimetrix/idimetrix)
-[![Free CV Maker with Print-Friendly Responsive Layout](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=cv)](https://github.com/idimetrix/cv)
-[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-talents)](https://github.com/idimetrix/awesome-talents)
-[![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-job-boards)](https://github.com/idimetrix/awesome-job-boards)
-
----
 
 ## Personal stats:
 
-#### With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
+#### With over 2 years of experience and 4+ years of education in Computer Science, a  Full-Stack Software Engineer specializes in developing web applications. Skilled in JavaScript frameworks like React, Redux back-end technologies such as Node, Express , MongoDB ,
 
 <details>
   <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
 Highlights:
 
-- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3)
-- ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
-- ⭐ Delivered over 50+ projects
-- ⭐ Worked with over 25+ companies from startup to enterprise level
-- ⭐ Delivered over 50+ projects
-- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
-- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
-- ⭐ Worked on innovative and cutting-edge projects
-- ⭐ Contribute to industry thought leadership
-- ⭐ Contribute to open source and private source
-- ⭐ Master new technologies, master computer science and mathematics
+- ⭐ 2+ years of professional experience in full Stack development
+- ⭐ Try to use full of my efficiency in fulfilling deadline
+- ⭐ Willing to accept responsibility and perform accordingly
+- ⭐ Adaptability to new and challenging situation
+- ⭐ Try to remain positive in any situation
+- ⭐ Always try to be punctual & honest
+- ⭐ Feel comfort to work in teams
+- ⭐ Can work independently or within a minimum supervision
+- ⭐ Posses’ creativity and analytical ability enough to solve various problems.
+- ⭐ Equipped with strong psychological mark up necessary to work under pressure
 
 Proficiencies:
 
@@ -181,8 +158,10 @@ Big believer in:
 
 ### 📈 GitHub Activity Graph:
 
+
+![sohan284's Stats](https://github-readme-stats.vercel.app/api?username=sohan284&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--   green snake -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohan284&bg_color=00313d&color=ffffff&line=4c9e5d&point=ca4444&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
-
-
+https://green-wall.leoku.dev/share/sohan284?start=2024&theme=Midnight
