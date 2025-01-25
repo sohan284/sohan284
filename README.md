@@ -9,16 +9,6 @@
 </p>
                                                                                                
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Sohanur Rahman.
-
-<p>
-    <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
-    <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
-    <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
-</p>
-
 - 🔭 I’m currently working as a Full Stack Engineer [bd calling]
 
 - 🌱 I’m currently learning **Docker**
