@@ -20,22 +20,6 @@
 </p>
                                                                                                
 
-<p align="center">
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
-</p>
-<p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
-</p>
-<p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
-</p>
-
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@idimetrix-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 ---
