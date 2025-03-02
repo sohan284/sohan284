@@ -18,7 +18,6 @@
 
 _I am open to new opportunities/contributions._
 
-
 ## Personal stats:
 
 #### With over 2 years of experience and 4+ years of education in Computer Science, a  Full-Stack Software Engineer specializes in developing web applications. Skilled in JavaScript frameworks like React, Redux back-end technologies such as Node, Express , MongoDB ,
