@@ -43,7 +43,7 @@ Proficiencies:
 - 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
 - 📚 React.js  + Vercel
 - 📚 MongoDB
-- 📚 HTML5/CSS3 
+- 📚 HTML5/CSS3/Tailwind
 - 📚 Project Leadership
 
 Interests:
