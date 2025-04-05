@@ -57,7 +57,7 @@ Big believer in:
 - 💡 Importance of cultivating a positive mindset and embracing optimism
 - 💡 Value of hard work and perseverance in achieving success
 - 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
-- 💡 Importance of ethical behavior and integrity in all aspects of life
+- 💡 Importance of ethical behavior and integrity in all aspects of life.
 
 </details>
 
