@@ -36,7 +36,7 @@ Highlights:
 - ⭐ Feel comfort to work in teams
 - ⭐ Can work independently or within a minimum supervision
 - ⭐ Posses’ creativity and analytical ability enough to solve various problems.
-- ⭐ Equipped with strong psychological mark up necessary to work under pressure
+- ⭐ Equipped with strong psychological mark up necessary to work under pressure.
 
 Proficiencies:
 
