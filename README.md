@@ -53,7 +53,7 @@ Interests:
 
 Big believer in:
 
-- 💡 Power of continuous learning and personal growth
+- 💡 Power of continuous learning and personal growth.
 - 💡 Importance of cultivating a positive mindset and embracing optimism
 - 💡 Value of hard work and perseverance in achieving success
 - 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
