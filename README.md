@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Sohanur Rahman Sohan</h1>                                                                                                                                                                                                                                                
 <h3 align="center">A passionate Full Stack Engineer from Bangladesh</h3>                                                                                        
 
-- 🔭 I’m currently working as a Full Stack Engineer [bd calling].
-
-- 🌱 I’m currently learning **Docker**
+- 🔭 I’m currently working as a Full Stack Engineer .
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ccefb.web.app/](https://portfolio-ccefb.web.app/)
 
