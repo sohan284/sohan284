@@ -83,7 +83,7 @@ _I am open to frontend roles, collaborations, and impactful projects._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohan284&theme=merko&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohan284&show_icons=true&theme=merko&count_private=true" />
 </p>
 
 <p align="center">
@@ -93,6 +93,7 @@ _I am open to frontend roles, collaborations, and impactful projects._
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan284&layout=compact&theme=merko" />
 </p>
+
 
 ---
 
